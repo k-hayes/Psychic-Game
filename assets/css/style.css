@@ -1,0 +1,30 @@
+body {
+	background: url("../images/footer_lodyas.png");
+}
+
+h1,
+p {
+	color: #fff;
+	font-family: arial;
+}
+
+h1 {
+	background-color: #ccc;
+	text-align: center;
+	height: 100px;
+	width: 500px;
+	padding-top: 30px;
+	padding-left: 20px;
+	padding-right: 20px;
+	margin: auto;
+	margin-bottom: 30px;
+}
+
+p {
+	margin-bottom: 30px;
+}
+
+img {
+	float: right;
+	height: 500px;
+}
